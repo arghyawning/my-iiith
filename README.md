@@ -44,3 +44,15 @@ I hope you find this useful :)
 - CS3.301:	Operating Systems and Networks
 - HS0.303:	Applied Ethics
 - HS0.301:	Classical Text Readings-1
+
+
+## Directory Structure
+```
+.
+├── README.md
+├── sem-1
+├── sem-2
+├── sem-3
+├── sem-4
+└── sem-5
+```
