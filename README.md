@@ -50,9 +50,36 @@ I hope you find this useful :)
 ```
 .
 ├── README.md
+├── rough.txt
 ├── sem-1
+│   ├── cpro
+│   ├── ds
+│   ├── dsm
+│   └── hsl
 ├── sem-2
+│   ├── dsa
+│   ├── iss
+│   ├── la
+│   ├── moci
+│   └── mocw
 ├── sem-3
+│   ├── aad
+│   ├── automata
+│   ├── dna
+│   ├── pns
+│   ├── tkhs1
+│   └── tkhs2
 ├── sem-4
+│   ├── cso
+│   ├── dass
+│   ├── gksl
+│   ├── mdl
+│   ├── rmhs
+│   └── sts
 └── sem-5
+    ├── applied-ethics
+    ├── ctr1
+    ├── osn
+    ├── psych
+    └── sci1
 ```
