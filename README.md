@@ -45,6 +45,12 @@ I hope you find this useful :)
 - HS0.303:	Applied Ethics
 - HS0.301:	Classical Text Readings-1
 
+### Sem 6 (Spring 2024)
+- CS9.434:  Music, Mind and Technology
+- CS7.403:	Statistical Methods in AI
+- CS9.424:	Technology Product Entrepreneurship
+- HS9.303:	EH-Honours Project 2
+
 
 ## Directory Structure
 ```
