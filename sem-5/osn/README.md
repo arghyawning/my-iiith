@@ -2,7 +2,11 @@
 
 All resources are available at: https://karthikv1392.github.io/cs3301_osn/
 
-## Assignments
+## Mini Projects
+
+### System Calls
+
+Simple exercise on system calls
 
 ### C-Shell
 
