@@ -1,0 +1,7 @@
+SELECT CONCAT(
+Name,
+"(",
+LEFT(Profession,1),
+")"
+)
+FROM input;

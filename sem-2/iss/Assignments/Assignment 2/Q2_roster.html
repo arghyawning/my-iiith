@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Time-Table</title>
+  </head>
+  <center>
+    <h1>Time-Table</h1>
+  </center>
+  <body style="background-color: black; color: rgb(247, 226, 199)">
+    <center>
+      <table
+        border="2.69px"
+        style="
+          text-align: center;
+          width: 80%;
+          min-height: 69%;
+          font-size: 1.69em;
+        "
+      >
+        <tr>
+          <th>Timing</th>
+          <th>Monday</th>
+          <th>Tuesday</th>
+          <th>Wednesday</th>
+          <th>Thursday</th>
+          <th>Friday</th>
+          <th>Saturday</th>
+        </tr>
+
+        <tr>
+          <td rowspan="3">Forenoon</td>
+          <td class="p1">
+            <br />
+          </td>
+          <td class="p2">
+            <br />
+          </td>
+          <td class="p3">
+            <br />
+          </td>
+          <td class="p1">
+            <br />
+          </td>
+          <td class="p2">
+            <br />
+          </td>
+          <td class="p3">
+            <br />
+          </td>
+        </tr>
+
+        <tr>
+          <td class="p4">
+            <br />
+          </td>
+          <td class="p5">
+            <br />
+          </td>
+          <td class="p6">
+            <br />
+          </td>
+          <td class="p4">
+            <br />
+          </td>
+          <td class="p5">
+            <br />
+          </td>
+          <td class="p6">
+            <br />
+          </td>
+        </tr>
+
+        <tr>
+          <td class="p7">
+            <br />
+          </td>
+          <td class="p8">
+            <br />
+          </td>
+          <td class="p9">
+            <br />
+          </td>
+          <td class="p7">
+            <br />
+          </td>
+          <td class="p8">
+            <br />
+          </td>
+          <td class="p9">
+            <br />
+          </td>
+        </tr>
+
+        <tr>
+          <td rowspan="3">Afternoon</td>
+          <td class="p10">
+            <br />
+          </td>
+          <td class="p11">
+            <br />
+          </td>
+          <td class="p12">
+            <br />
+          </td>
+          <td class="p10">
+            <br />
+          </td>
+          <td class="p11">
+            <br />
+          </td>
+          <td class="p12">
+            <br />
+          </td>
+        </tr>
+
+        <tr>
+          <td class="p13">
+            <br />
+          </td>
+          <td class="p14">
+            <br />
+          </td>
+          <td class="p15">
+            <br />
+          </td>
+          <td class="p13">
+            <br />
+          </td>
+          <td class="p14">
+            <br />
+          </td>
+          <td class="p15">
+            <br />
+          </td>
+        </tr>
+
+        <tr>
+          <td class="p16">
+            <br />
+          </td>
+          <td class="p17">
+            <br />
+          </td>
+          <td class="p18">
+            <br />
+          </td>
+          <td class="p16">
+            <br />
+          </td>
+          <td class="p17">
+            <br />
+          </td>
+          <td class="p18">
+            <br />
+          </td>
+        </tr>
+      </table>
+    </center>
+  </body>
+
+  <script>
+    var input;
+    for (let i = 1; i <= 18; i++) {
+      input = prompt("Enter subject " + i + "'s name:");
+      var add = document.getElementsByClassName("p" + i);
+      add[0].innerHTML = input;
+      add[1].innerHTML = input;
+    }
+  </script>
+</html>

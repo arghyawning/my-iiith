@@ -1,0 +1,11 @@
+Industry,Change in Price Percent,Confidance (Tag),Instructions only
+Finance - General,< 0%,Low,
+Finance - General,>= 0% & <=4%,Medium,
+Finance - General,>4%,High,
+Auto Ancillaries,< 0%,Low,
+Auto Ancillaries,>= 0% & <=10%,Medium,
+Auto Ancillaries,>10%,High,
+Ceramics & Granite,< 1%,Low,
+Ceramics & Granite,>= 1% & <=2%,Medium,
+Ceramics & Granite,>2%,High,
+Banking || Auto Ancillaries || Ceramics & Granite,Previous day not listed,Listed New,"Column in Database - Previous Day Price, Change in Price will be inserted with NA"

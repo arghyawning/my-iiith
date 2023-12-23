@@ -1,0 +1,39 @@
+.style{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: black;
+    color:antiquewhite;
+    font-size: x-large;
+    background-image: url("./The-Weeknd.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+.bs{
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+    background-color:rgb(0, 0, 0);
+    color: bisque;
+    font-size: x-large;
+    cursor: pointer;
+}
+
+.stt{
+    /* backdrop-filter: blur(80px); */
+    /* background-color: darkslategrey; */
+    font-size: xx-large;
+    padding-left: 15vw;
+    padding-top: 15vh;
+    padding-bottom: 15vh;
+    padding-right: 15vw;
+    backdrop-filter: blur(50px);
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-weight: bold;
+    margin-left: 15vw;
+    margin-right: 15vw;
+}

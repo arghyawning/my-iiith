@@ -1,0 +1,9 @@
+SELECT CONCAT(N,
+" ",
+CASE WHEN P is NULL THEN 'Root' 
+WHEN N in (SELECT P FROM input2) THEN 'Inner'
+ELSE 'Leaf'
+END
+)
+FROM input2
+ORDER by N;
