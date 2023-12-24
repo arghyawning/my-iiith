@@ -46,10 +46,11 @@ I hope you find this useful :)
 - HS0.301:	Classical Text Readings-1
 
 ### Sem 6 (Spring 2024)
+- HS9.303:	EH-Honours Project 2
 - CS9.434:  Music, Mind and Technology
 - CS7.403:	Statistical Methods in AI
 - CS9.424:	Technology Product Entrepreneurship
-- HS9.303:	EH-Honours Project 2
+- HS1.210:	Music Workshop
 
 
 ## Directory Structure
@@ -82,10 +83,15 @@ I hope you find this useful :)
 │   ├── mdl
 │   ├── rmhs
 │   └── sts
-└── sem-5
-    ├── applied-ethics
-    ├── ctr1
-    ├── osn
-    ├── psych
-    └── sci1
+├── sem-5
+│   ├── applied-ethics
+│   ├── ctr1
+│   ├── osn
+│   ├── psych
+│   └── sci1
+└── sem-6
+    ├── music
+    ├── mmt
+    ├── smai
+    └── tpe
 ```
