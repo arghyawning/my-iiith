@@ -3,7 +3,8 @@ Hi! I'm Arghya, a dual degree student at IIIT Hyderabad in the CHD program. This
 I hope you find this useful :)
 
 <br>
-If something is missing here, which you specifically need, feel free to drop a mail (arghya.roy@research.iiit.ac.in)
+
+If something is missing here, which you specifically need, feel free to drop a [mail](mailto:arghya.roy@research.iiit.ac.in)!
 <br>
 
 ### Sem 1 (Monsoon 2021)
