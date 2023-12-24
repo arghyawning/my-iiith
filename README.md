@@ -2,6 +2,10 @@
 Hi! I'm Arghya, a dual degree student at IIIT Hyderabad in the CHD program. This is my attempt to include all my coursework, hoping it might come in handy to others. <br>
 I hope you find this useful :)
 
+<br>
+If something is missing here, which you specifically need, feel free to drop a mail (arghya.roy@research.iiit.ac.in)
+<br>
+
 ### Sem 1 (Monsoon 2021)
 - MA5.101:	Discrete Structures
 - CS0.101:	Computer Programming
