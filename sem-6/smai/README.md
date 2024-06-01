@@ -1,5 +1,7 @@
 # My SMAI Notes
 
+In case of rendering issues, you can check it out [here](https://cookie-factory.notion.site/My-SMAI-Notes-cffcba29c9314ca2b7a831b4fbc1f17c?pvs=74).
+
 ## K-Nearest Neighbours (KNN)
 
 In KNN, the new point is compared with every single existing data point (in the dataset) too see how far distance they are at from the point. The point is then assigned a label/class based on which is the most popular label among its $k$ nearest neighbours. 
