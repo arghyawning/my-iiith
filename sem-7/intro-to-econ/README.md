@@ -28,7 +28,7 @@ Female Labour Force Participation
 
 ### Team
 
-`economic crimes`
+*economic crimes*
 
 - Anushka Agrawal
 - Arghya Roy
@@ -53,12 +53,12 @@ Both the midsem and endsem papers are available [here](https://github.com/Vijayr
 
 ### Additional Readings
 
-- Wolff and Resnick, `Contending Economic Theories: Neoclassical, Keynesian, and Marxian`
+- Wolff and Resnick, *Contending Economic Theories: Neoclassical, Keynesian, and Marxian*
 
-- Mariano Torras, Neva Goodwin, Brian Roach, Jonathan Harris, Julie Nelson, `Principles of Economics in Context`
+- Mariano Torras, Neva Goodwin, Brian Roach, Jonathan Harris, Julie Nelson, *Principles of Economics in Context*
 
-- [`The Economy: A South Asian Perspective`](https://www.core-econ.org/the-economy-south-asia/)
+- [*The Economy: A South Asian Perspective*](https://www.core-econ.org/the-economy-south-asia/)
 
-- William Mitchell, L. Randall Wray, Martin Watts, `Macroeconomics`
+- William Mitchell, L. Randall Wray, Martin Watts, *Macroeconomics*
 
 ---
