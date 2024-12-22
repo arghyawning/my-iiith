@@ -57,6 +57,13 @@ If something is missing here, which you specifically need, feel free to drop a [
 - CS9.424:	Technology Product Entrepreneurship
 - HS1.210:	Music Workshop
 
+### Sem 7 (Monsoon 2024)
+- HS9.402:	EH-Honours Project 3
+- HS5.202:  Introduction to Economics
+- CS4.405:  Data Analytics I
+- CS7.404:  Digital Image Processing
+- CS9.429:  Design for Social Innovation
+
 
 ## Directory Structure
 ```
@@ -94,9 +101,15 @@ If something is missing here, which you specifically need, feel free to drop a [
 │   ├── osn
 │   ├── psych
 │   └── sci1
-└── sem-6
-    ├── music
-    ├── mmt
-    ├── smai
-    └── tpe
+├── sem-6
+│   ├── music
+│   ├── mmt
+│   ├── smai
+│   └── tpe
+└── sem-7
+    ├── data-analytics
+    ├── dip
+    ├── dsi
+    └── intro-to-econ
+
 ```
