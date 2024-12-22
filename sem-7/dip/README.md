@@ -27,6 +27,10 @@ Professor: Dr. Anoop Namboodiri
 - Image Compression
 - Deep Learning for Image Transformations
 
+## Assignments
+
+All my assignments are available in this [repository](https://github.com/arghyawning/dip-assignments).
+
 
 ## Project
 
